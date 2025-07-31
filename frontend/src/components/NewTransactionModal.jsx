@@ -11,9 +11,24 @@ function NewTransactionModal({ onSuccess }) {
   const [holderNameError, setHolderNameError] = useState("");
   const [accountNumberError, setAccountNumberError] = useState("");
 
-  const handleChange = (e) => {
-    setForm({ ...form, [e.target.name]: e.target.value });
-  };
+const handleChange = (e) => {
+  const { name, value } = e.target;
+
+  if (name === "account_number") {
+    const digits = value.replace(/\D/g, "");
+    const formatted = digits
+      .substring(0, 12)
+      .replace(/(\d{4})(?=\d)/g, "$1-");
+    setForm({ ...form, [name]: formatted });
+  } else if (name === "account_holder_name") {
+    const capitalized = value
+      .toLowerCase()
+      .replace(/\b\w/g, (char) => char.toUpperCase());
+    setForm({ ...form, [name]: capitalized });
+  } else {
+    setForm({ ...form, [name]: value });
+  }
+};
 
   const isValidHolderName = (value) => {
     return /^[a-zA-Z\s]+$/.test(value);

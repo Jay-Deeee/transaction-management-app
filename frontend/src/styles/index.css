@@ -1,0 +1,16 @@
+body, .modal-header, .modal-body, .modal-footer {
+  background-color: #e7eaea80 !important;
+}
+
+th {
+  background-color: #aaa7ad !important;
+}
+
+.text-pending {
+  color: #b58900 !important;
+}
+
+.header {
+  font-weight: 900;
+  padding: 40px 305px 10px 305px;
+}
