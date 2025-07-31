@@ -208,3 +208,108 @@ Processing by TransactionsController#create as */*
 Completed 201 Created in 1ms (Views: 0.1ms | GC: 0.0ms)
 
 
+Started GET "/transactions" for ::1 at 2025-07-31 22:13:17 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 40ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:13:17 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:13:17 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:17:23 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:17:23 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:18:28 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 0ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:18:28 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:28:56 +0800
+Processing by TransactionsController#index as */*
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:29:11 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:29:11 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:29:17 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:29:17 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 0ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:29:29 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:29:29 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:31:56 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 10ms (Views: 2.5ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:31:56 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:35:10 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:35:10 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:41:10 +0800
+Processing by TransactionsController#index as */*
+Completed 200 OK in 9ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:42:20 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:42:20 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | GC: 0.0ms)
+
+
