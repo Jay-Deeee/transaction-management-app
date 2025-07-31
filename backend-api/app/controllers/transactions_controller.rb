@@ -7,6 +7,12 @@ class TransactionsController < ApplicationController
   end
 
   def create
+    record = TransactionRecord.new(transaction_params)
+
+    unless record.valid?
+      return render json: { errors: record.errors.full_messages }, status: :unprocessable_entity
+    end
+
     status = ["Pending", "Settled", "Failed"].sample
 
     transaction = {
