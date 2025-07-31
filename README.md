@@ -1,7 +1,7 @@
 # 📊 Transaction Management Application
 
 This is a simple full-stack application to manage and track transactions.
-It uses a Ruby on Rails API backend and a React.js frontend.
+It uses Ruby on Rails-API for backend and React.js(Vive) for frontend.
 Transactions are stored in a `.csv` file.
 
 ### 🛠 Features
