@@ -7,7 +7,10 @@ function TransactionList() {
 
   const fetchTransactions = () => {
     axios.get('http://localhost:3000/transactions')
-      .then(response => setTransactions(response.data))
+      .then(response => {
+        const sorted = response.data.sort((a, b) => new Date(b.transactionDate) - new Date(a.transactionDate));
+        setTransactions(sorted);
+      })
       .catch(error => console.error('Error fetching transactions:', error));
   };
 
@@ -41,7 +44,13 @@ function TransactionList() {
               <td>{tx.accountNumber}</td>
               <td>{tx.accountHolderName}</td>
               <td>{tx.amount}</td>
-              <td>{tx.status}</td>
+              <td className={
+                tx.status === 'Settled' ? 'text-success' :
+                tx.status === 'Pending' ? 'text-warning' :
+                'text-danger'
+              }>
+                {tx.status}
+              </td>
             </tr>
           ))}
         </tbody>

@@ -313,3 +313,350 @@ Processing by TransactionsController#index as HTML
 Completed 200 OK in 1ms (Views: 0.2ms | GC: 0.0ms)
 
 
+Started GET "/transactions" for ::1 at 2025-07-31 22:45:07 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:45:07 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 2ms (Views: 1.3ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:45:09 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.1ms | GC: 0.9ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:45:09 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:48:42 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.2ms | GC: 0.3ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:48:43 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 3ms (Views: 1.7ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:48:43 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.2ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:48:44 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 14ms (Views: 0.3ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:48:44 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 22:49:40 +0800
+Processing by TransactionsController#create as HTML
+  Parameters: {"transaction_date"=>"2025-07-24", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}
+Completed 201 Created in 31ms (Views: 0.1ms | GC: 0.2ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:49:40 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.2ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:49:57 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 22:49:57 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 13ms (Views: 0.2ms | GC: 0.4ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:03:49 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:03:49 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 23:04:10 +0800
+Processing by TransactionsController#create as HTML
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}
+Completed 201 Created in 2ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:04:10 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:04:21 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:04:21 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:11:50 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:11:50 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:13:46 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 6ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:13:46 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:17:24 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:17:24 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 23:18:28 +0800
+Processing by TransactionsController#create as HTML
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"8888-7777-6666", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}
+Completed 201 Created in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:18:28 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:19:30 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:19:30 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 11ms (Views: 0.3ms | GC: 7.8ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 23:19:41 +0800
+Processing by TransactionsController#create as HTML
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"8888-7777-6666", "account_holder_name"=>"Jino Dayrit", "amount"=>"100"}
+Completed 201 Created in 2ms (Views: 0.4ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:19:41 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.2ms | GC: 1.3ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:20:00 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 8ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:20:00 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.3ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:20:07 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:20:07 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.3ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 23:20:57 +0800
+Processing by TransactionsController#create as HTML
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"8888-7777-6666", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}
+Completed 201 Created in 2ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:20:57 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 23:21:10 +0800
+Processing by TransactionsController#create as HTML
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"8888-7777-6666", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}
+Completed 201 Created in 1ms (Views: 0.1ms | GC: 0.4ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:21:10 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:21:25 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 4ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:21:25 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.1ms | GC: 0.2ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 23:21:34 +0800
+Processing by TransactionsController#create as HTML
+  Parameters: {"transaction_date"=>"2025-07-11", "account_number"=>"8888-7777-6666", "account_holder_name"=>"Jino Dayrit", "amount"=>"567"}
+Completed 201 Created in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:21:34 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:21:56 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:21:56 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 23:23:51 +0800
+Processing by TransactionsController#create as HTML
+  Parameters: {"transaction_date"=>"2025-07-11", "account_number"=>"8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"100.00"}
+Completed 422 Unprocessable Content in 11ms (Views: 0.5ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 23:23:55 +0800
+Processing by TransactionsController#create as HTML
+  Parameters: {"transaction_date"=>"2025-07-11", "account_number"=>"8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"100.00"}
+Completed 422 Unprocessable Content in 2ms (Views: 1.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:24:15 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 5ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:24:15 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 23:24:36 +0800
+Processing by TransactionsController#create as HTML
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"8888-7777-6666", "account_holder_name"=>"123", "amount"=>"1"}
+Completed 201 Created in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:24:36 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:31:24 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:31:24 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:34:49 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:34:49 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 23:35:03 +0800
+Processing by TransactionsController#create as HTML
+  Parameters: {"transaction_date"=>"2025-08-01", "account_number"=>"8888-7777-6666", "account_holder_name"=>"Jino Dayrit", "amount"=>"123"}
+Completed 201 Created in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:35:03 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:39:22 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:39:22 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:43:57 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:43:57 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 7ms (Views: 0.1ms | GC: 0.5ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:45:20 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:45:20 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 23:45:36 +0800
+Processing by TransactionsController#create as HTML
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"8888-7777-6666", "account_holder_name"=>"Jino Dayrit", "amount"=>"123"}
+Completed 201 Created in 15ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:45:36 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 1ms (Views: 0.1ms | GC: 0.2ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:48:04 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 2ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started GET "/transactions" for ::1 at 2025-07-31 23:48:04 +0800
+Processing by TransactionsController#index as HTML
+Completed 200 OK in 4ms (Views: 0.1ms | GC: 0.0ms)
+
+
