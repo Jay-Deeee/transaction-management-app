@@ -1,0 +1,5 @@
+Started GET "/transactions" for ::1 at 2025-07-31 19:34:50 +0800
+Processing by TransactionsController#index as */*
+Completed 200 OK in 30ms (Views: 0.3ms | GC: 0.0ms)
+
+
