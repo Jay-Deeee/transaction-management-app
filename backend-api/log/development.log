@@ -3,3 +3,101 @@ Processing by TransactionsController#index as */*
 Completed 200 OK in 30ms (Views: 0.3ms | GC: 0.0ms)
 
 
+Started POST "/transactions" for ::1 at 2025-07-31 20:10:29 +0800
+Processing by TransactionsController#create as */*
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}}
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x00007597c0a628b8>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x00007597c0a628b8>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x00007597c0a628b8>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x00007597c0a628b8>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+Completed 201 Created in 14ms (Views: 0.3ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 20:13:48 +0800
+Processing by TransactionsController#create as */*
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}}
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x0000747a74020798>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x0000747a74020798>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x0000747a74020798>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x0000747a74020798>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+Completed 201 Created in 15ms (Views: 0.3ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 20:13:51 +0800
+Processing by TransactionsController#create as */*
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}}
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x0000747a72b7a280>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x0000747a72b7a280>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x0000747a72b7a280>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x0000747a72b7a280>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+Completed 201 Created in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 20:14:10 +0800
+Processing by TransactionsController#create as */*
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}}
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x0000747a72b70320>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x0000747a72b70320>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x0000747a72b70320>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x0000747a72b70320>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+Completed 201 Created in 4ms (Views: 0.3ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 20:16:50 +0800
+Processing by TransactionsController#create as */*
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}}
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x0000717696020520>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x0000717696020520>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x0000717696020520>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+[31mUnpermitted parameter: :transaction. Context: { controller: TransactionsController, action: create, request: #<ActionDispatch::Request:0x0000717696020520>, params: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99", "controller"=>"transactions", "action"=>"create", "transaction"=>{"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}} }[0m
+Completed 201 Created in 9ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 20:25:55 +0800
+Processing by TransactionsController#create as */*
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}
+Completed 201 Created in 9ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 20:26:20 +0800
+Processing by TransactionsController#create as */*
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}
+Completed 201 Created in 11ms (Views: 0.2ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 20:26:54 +0800
+Processing by TransactionsController#create as */*
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}
+Completed 201 Created in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 20:27:00 +0800
+Processing by TransactionsController#create as */*
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}
+Completed 201 Created in 0ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 20:27:02 +0800
+Processing by TransactionsController#create as */*
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}
+Completed 201 Created in 0ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 20:27:03 +0800
+Processing by TransactionsController#create as */*
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}
+Completed 201 Created in 0ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 20:27:04 +0800
+Processing by TransactionsController#create as */*
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}
+Completed 201 Created in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+
+Started POST "/transactions" for ::1 at 2025-07-31 20:27:05 +0800
+Processing by TransactionsController#create as */*
+  Parameters: {"transaction_date"=>"2025-07-31", "account_number"=>"9999-8888-7777", "account_holder_name"=>"Jino Dayrit", "amount"=>"999.99"}
+Completed 201 Created in 1ms (Views: 0.1ms | GC: 0.0ms)
+
+

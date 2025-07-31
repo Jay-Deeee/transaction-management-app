@@ -1,4 +1,6 @@
 class TransactionsController < ApplicationController
+  wrap_parameters false
+
   def index
     transactions = TransactionCsvService.all
     render json: transactions
