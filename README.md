@@ -26,7 +26,7 @@ cd transaction-management-app
 
 2. Set Up the Rails API
 ```
-cd backend
+cd backend-api
 ```
 Install Ruby Gems
 ```
